@@ -1,4 +1,4 @@
-#My Odin Project
+# My Odin Project
 
 This repository is where I'm storing the html, css, and javascript that I write while I work my way through the Odin Project material. The rough directory structure is as follows:
 
